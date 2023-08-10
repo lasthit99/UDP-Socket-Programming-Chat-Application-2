@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP Chat Client Form", "UDP Chat Client Form\UDP Chat Client Form.csproj", "{FBF1A89A-E5F9-41EB-B8B6-6F7457631151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP Asynchronous Chat", "..\UDP Asynchronous Chat\UDP Asynchronous Chat\UDP Asynchronous Chat.csproj", "{C8D8BB9E-21D5-48B6-9086-233D2266551B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF1A89A-E5F9-41EB-B8B6-6F7457631151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF1A89A-E5F9-41EB-B8B6-6F7457631151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF1A89A-E5F9-41EB-B8B6-6F7457631151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF1A89A-E5F9-41EB-B8B6-6F7457631151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D8BB9E-21D5-48B6-9086-233D2266551B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D8BB9E-21D5-48B6-9086-233D2266551B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D8BB9E-21D5-48B6-9086-233D2266551B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D8BB9E-21D5-48B6-9086-233D2266551B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA76338F-ED73-43F5-B72B-1F88AAB68574}
+	EndGlobalSection
+EndGlobal
